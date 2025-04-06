@@ -48,6 +48,10 @@ A calorie tracking application that allows users to upload images of their meals
 
 3. Upload an image of your meal and get the calorie content!
 
+## Website
+
+You can also access the application online at [Calorie Tracker](https://calorie-tracker-seven-dun.vercel.app/).
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request.
